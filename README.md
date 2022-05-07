@@ -1,8 +1,9 @@
 # Computational Photography
 ## _CECS 553 Machine Vision_
 by
-Pavan Sai Kalyan, Badam
-Naga Bala Venkatesh, Ramoju
+_Pavan Sai Kalyan, Badam_
+
+_Naga Bala Venkatesh, Ramoju_
 
 Auto enhancing an input image either by adjusting the exposure levels, saturation, or white balance. This will be done dynamically based on the input image.
 
